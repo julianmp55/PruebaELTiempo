@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prueba EL Tiempo</string>
+    <string name="all_images_title">All</string>
+    <string name="favorite_images_title">Favorites</string>
+    <string name="empty_list">No hay nada que mostrar</string>
+    <string name="location">Location:</string>
+    <string name="date">Date:</string>
+    <string name="refresh">Refresh</string>
+</resources>
